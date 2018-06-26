@@ -12,6 +12,5 @@ Ubuntu 16.04 LTS
 ROS Kinetic 		
 Python 2.7 although adapting the prepared codes to 3.x version should not take much time
 
-### Who do I talk to? ###
-
-tomislav.petkovic2@fer.hr
+### What have I done?###
+In series of three laboratory exercises. In first task I implemented occupancy grid mapping using Bayes rule, ROS and Python. In second task there is implementation of Extended Kalman Filter used for correcting predictions from existing obstacle map. In third task there is implemented A* algorithm for robot navigation from start to finish without hitting an obstacle. Launch files are located in /launcher, while python scripts are located in /src. 
